@@ -73,6 +73,7 @@ strong {
 /* Background image */
 .bg-img {
     background-size: cover;
+    background-position: center;
     min-height: 100%;
     padding: 50px;
 }
@@ -85,7 +86,6 @@ strong {
 .bg-img-scroll {
     background-repeat: no-repeat; 
     background-attachment: scroll; 
-    background-position: center;
 }
 
 #lights01 {
