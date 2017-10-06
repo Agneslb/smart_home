@@ -1,3 +1,25 @@
+###Wireframe validation
+
+head: contains the title
+[x]lights01: first smart lights div class
+[x] - add background image
+[x] - add div
+[x] - add subtitle
+[x] - add paragraphs
+[x]lights02: second smart lights div
+[x] - add background image
+[x] - add div
+[x] - add paragraphs
+[x]plugs01: first smart plugs div class
+[x] - add background image
+[x] - add div
+[x] - add subtitle
+[x] - add paragraphs
+[x]plugs02: second smart plugs div class
+[x] - add background image
+[x] - add div
+[x] - add paragraphs
+
 ### Getting started
 There are various things you can do to quickly and efficiently configure your Codio Box to your exact requirements. 
 
