@@ -1,3 +1,6 @@
+###Smart Home Project
+Energy efficiency page
+
 ###Wireframe validation
 
 head: contains the title
