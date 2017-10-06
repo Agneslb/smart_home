@@ -1,0 +1,124 @@
+html, body {
+    height: 100%;
+}
+
+* {
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    text-align:center;
+    color:#188ED7;
+    font-size: 36px;
+}
+
+h2 {
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+h3 {
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color:#188ED7;
+}
+
+strong {
+    color:#188ED7;
+}
+
+.float-right {
+    float: right;
+}
+
+/* Transparent div background */
+.transparent {
+    text-align: center;
+    line-height: 1.4;
+    
+    background-color: rgba(255,255,255,0.85);
+    border-radius: 0px;
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+}
+
+.transparent h2 {
+    color: #222222;
+}
+
+.transparent p {
+    color: #333333;
+}
+
+.transparent ul {
+    color: #333333;
+    text-align: left;
+}
+
+.transparent.small {
+    width: 300px;
+}
+
+/* Background image */
+.bg-img {
+    background-size: cover;
+    min-height: 100%;
+    padding: 50px;
+}
+
+.bg-img-fixed {
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+
+.bg-img-scroll {
+    background-repeat: no-repeat; 
+    background-attachment: scroll; 
+    background-position: center;
+}
+
+#lights01 {
+    background-image: url("https://www.smartwithyou.com/wp-content/uploads/bulbs.jpeg"); 
+}
+
+#lights02 {
+    background-image: url("https://www.smartwithyou.com/wp-content/uploads/studio_lights.jpeg");
+}
+
+#plugs01 {
+    background-image: url("https://www.smartwithyou.com/wp-content/uploads/electricity.jpeg");
+}
+
+#plugs02 {
+    background-image: url("https://www.smartwithyou.com/wp-content/uploads/electric_pole.jpg");
+}
+
+/* Transparent div background with black border */
+.black {
+    text-align: center;
+    line-height: 1.4;
+    
+    border-width: 2px;
+    border-color: #444444;
+    border-style: solid;
+    border-radius: 10px;
+    
+    width: 450px;
+    padding: 20px;
+    margin: auto;
+}
+
+.black p {
+    color: #333333;
+}
